@@ -15,3 +15,6 @@ Advantages:
 - Less Time To Train Model.
 - High Accuracy.
 - Efficient Face Recognition on Limited Hardware Architecture
+
+## Work Flow
+![Work Flow](https://github.com/preetnandasana/Face-Recognition-CNN/blob/master/Screenshot/Face%20Recognition%20Work%20Flow.png)
